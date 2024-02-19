@@ -1,13 +1,14 @@
 {
-  "p": "brc-20",
-  "op": "mint",
-  "tick": "ordi",
-  "amt": "1000",
-  "block": 779974,
-  "tx_fee": 1570,
-  "timestamp": 1678340491,
-  "tx_hash": "ff9834313e91a63ce8eaa86b18d2fbcbace67d5574b743c53a5fa8b1eef9e09f",
-  "output_address": "bc1p06wpcntc0taq0sqhsl4paykdth0cyey54zmme0a2w3m2sl4kmp4qr23ay3",
-  "output_value": 10000,
-  "output_script": "51207e9c1c4d787afa07c01787ea1e92cd5ddf826494a8b7bcbfaa7476a87eb6d86a"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
