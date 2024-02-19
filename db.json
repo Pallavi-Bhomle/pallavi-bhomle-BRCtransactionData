@@ -1,11 +1,7 @@
 {
-  "blockData": [{ "tick": "B200",
-  "amt": "1000",
-  "block": 779974},
-  { "tick": "ordi",
-  "amt": "1000",
-  "block": 779975},
-  { "tick": "ordi",
-  "amt": "1000",
-  "block": 779976}]
+  "blockData": [
+    { "tick": "B200", "amt": "1000", "block": 779974 },
+    { "tick": "ordi", "amt": "1000", "block": 779975 },
+    { "tick": "ordi", "amt": "1000", "block": 779976 }
+  ]
 }
