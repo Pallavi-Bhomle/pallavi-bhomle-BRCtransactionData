@@ -1,4 +1,11 @@
 {
-  "blockData": "Open",
-  "output_script": "51207e9c1c4d787afa07c01787ea1e92cd5ddf826494a8b7bcbfaa7476a87eb6d86a"
+  "blockData": [{ "tick": "B200",
+  "amt": "1000",
+  "block": 779974},
+  { "tick": "ordi",
+  "amt": "1000",
+  "block": 779975},
+  { "tick": "ordi",
+  "amt": "1000",
+  "block": 779976}]"
 }
